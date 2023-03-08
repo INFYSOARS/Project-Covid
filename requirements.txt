@@ -7,7 +7,7 @@ gunicorn
 html5lib
 joblib
 pandas
-sklearn==1.0.2
+sklearn
 celery
 rabbitmq
 honcho
