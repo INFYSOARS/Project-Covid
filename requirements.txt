@@ -7,7 +7,7 @@ gunicorn
 html5lib
 joblib
 pandas
-sklearn
+sklearn==1.2.1
 celery
 rabbitmq
 honcho
@@ -20,4 +20,3 @@ mysql-connector
 protobuf==3.19.4
 django-environ
 importlib-metadata==4.13.0
-sklearn
