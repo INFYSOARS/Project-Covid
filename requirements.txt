@@ -5,7 +5,7 @@ Django
 beautifulsoup4
 gunicorn
 html5lib
-joblib
+joblib==1.1.0
 pandas
 sklearn
 celery
@@ -20,3 +20,4 @@ mysql-connector
 protobuf==3.19.4
 django-environ
 importlib-metadata==4.13.0
+scikit-learn==1.0.2
