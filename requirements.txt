@@ -20,4 +20,4 @@ mysql-connector
 protobuf==3.19.4
 django-environ
 importlib-metadata==4.13.0
-scikit-learn
+sklearn
