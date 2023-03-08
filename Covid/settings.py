@@ -50,7 +50,7 @@ SECRET_KEY = HEROKU_SECRET
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost','127.0.0.1','covid-infy-soars.herokuapp.com']
+ALLOWED_HOSTS = ['localhost','127.0.0.1','infysoars-project-covid.onrender.com']
 
 MEDIA_URL = '/media/'
 
