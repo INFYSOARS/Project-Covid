@@ -15,7 +15,7 @@ from pathlib import Path
 import os
 
 try:
-    os.system('py manage.py collectstatic')
+    os.system('python manage.py collectstatic')
 except:
     pass
 
