@@ -15,6 +15,11 @@ from pathlib import Path
 import os
 
 try:
+    os.system('py manage.py collectstatic')
+except:
+    pass
+
+try:
     import environ
     env = environ.Env()
     environ.Env.read_env()
