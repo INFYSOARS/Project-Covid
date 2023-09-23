@@ -18,6 +18,6 @@ matplotlib
 mysql-connector
 protobuf
 django-environ
-importlib-metadata
+importlib-metadata==4.13.0
 scikit-learn
 whitenoise
