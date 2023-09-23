@@ -13,7 +13,6 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 from logging import exception
 from pathlib import Path
 import os
-import django_heroku
 
 try:
     import environ
@@ -163,7 +162,6 @@ STATICFILES_DIRS = (
 )
 
 # STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
-django_heroku.settings(locals())
 
 
 # Redis

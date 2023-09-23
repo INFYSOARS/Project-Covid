@@ -1,22 +1,23 @@
-django_heroku
+# django_heroku
 requests
 geopy
-Django
+django
 beautifulsoup4
 gunicorn
 html5lib
-joblib==1.1.0
+joblib
 pandas
 celery
 rabbitmq
 honcho
 eventlet
-opencv-python-headless
+# opencv-python-headless
 matplotlib
-keras
-tensorflow-cpu==2.5.0
+# keras
+# tensorflow-cpu==2.5.0
 mysql-connector
-protobuf==3.19.4
+protobuf
 django-environ
-importlib-metadata==4.13.0
-scikit-learn==1.0.2
+importlib-metadata
+scikit-learn
+whitenoise

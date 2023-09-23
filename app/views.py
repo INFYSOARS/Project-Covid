@@ -13,8 +13,8 @@ from .task import *
 import warnings
 warnings.filterwarnings("ignore")
 import numpy as np
-import cv2
-import tensorflow as tf
+# import cv2
+# import tensorflow as tf
 from django.http import HttpResponse
 from django.views.generic import View
 from django.conf import settings
